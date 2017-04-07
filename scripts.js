@@ -46,7 +46,7 @@ layout = {
   autosize: true,
   hovermode: 'closest',
   showlegend: true,
-  title: 'Saturated Fat and Death',
+  title: 'Saturated Fat and Health',
   xaxis: {
     autorange: true,
     range: [4.38487698285, 16.1684717946],
